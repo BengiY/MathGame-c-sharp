@@ -1,0 +1,28 @@
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\TestDB.mdf
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\TestDB_log.ldf
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\BL.dll.config
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\BL.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\BL.pdb
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\obj\Debug\BL.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\obj\Debug\BL.pdb
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\TestDB.mdf
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\TestDB_log.ldf
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\BL.dll.config
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\BL.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\BL.pdb
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\obj\Debug\BL.dll
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\סופי\WindowsFormsApp1\BL\obj\Debug\BL.pdb

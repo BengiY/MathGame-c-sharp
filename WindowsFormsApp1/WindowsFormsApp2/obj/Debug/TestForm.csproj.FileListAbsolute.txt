@@ -1,0 +1,9 @@
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\noam_\Desktop\לימודים מרחוק\C#\בעזרת ד נעשה ונצליח\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
